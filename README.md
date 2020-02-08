@@ -1,4 +1,4 @@
-# latercera
+# manual-git
 - git init: inicia un repositorio en el computador
 
 ## manual de terminal
