@@ -1,6 +1,6 @@
-git init - inicia el repositorio.
-git add . - agrega al área de preparación (staging area), todos los archivos que fueron cambiados desde el último respaldo.
-git status - Te muestra todos los archivos que fueron cambiados desde el último respaldo y cuáles ya fueron agregados al área de preparación.
+- git init - inicia el repositorio.
+- git add . - agrega al área de preparación (staging area), todos los archivos que fueron cambiados desde el último respaldo.
+- git status - Te muestra todos los archivos que fueron cambiados desde el último respaldo y cuáles ya fueron agregados al área de preparación.
 git commit -m "..." - realiza los cambios en el repositorio.
 git checkout ____ - cambia al nombre de rama (branch) proporcionado en tu repositorio.  Esto creará una nueva rama si el nombre entregado no existe.
 git branch - muestra todas las ramas de tu git y marca en cuál estás actualmente.
